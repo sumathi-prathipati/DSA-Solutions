@@ -4,7 +4,7 @@ class Solution {
         int i =0;
                 int j = arr.length-1;
         while(i<j){
-            if(arr[i]==arr[j]){
+            if(arr[i]arr[j]){
             return true;
         }
         i++;
